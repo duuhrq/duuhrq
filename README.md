@@ -22,6 +22,9 @@ Embora eu esteja iniciando minha trajetória profissional agora, dedico todo meu
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node-logo"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres-logo">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
+
+<br>
+
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
